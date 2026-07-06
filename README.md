@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm ManiMaran 👋</h1>
 
-<h3 align="center">AI Full Stack Engineer — building agentic systems & production RAG pipelines end to end</h3>
+<h3 align="center">AI Engineer — building agentic systems & full-stack applications powered by machine learning, RAG pipelines, and LLMs</h3>
 
 <p align="center">
   <a href="mailto:m20maran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -10,17 +10,13 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🔭 Currently shipping full-stack AI products — most recently **PureSync AI** & **GlamMirror** at Humanity Founders
-- 🧠 Focus: RAG pipelines, multi-agent systems, LLM app architecture
-- 🌱 Recently built **TripNovaa** — a full-stack PHP/MySQL ride-hailing super-app
-- 🏆 3rd Place, Curalink Hackathon (AI Full Stack) — led directly to an internship offer
-- 💪 Off the keyboard: powerlifting & bodybuilding (2× gold medalist)
+I'm an AI Engineer who enjoys building intelligent, full-stack applications. My work spans machine learning, RAG pipelines, multi-agent systems, and LLM-powered application architecture, along with the full-stack engineering needed to ship them — from backend APIs and databases to frontend interfaces. I like working on projects that combine AI and ML with practical, real-world use cases, whether that's training models, automating workflows, building smarter search and retrieval systems, or integrating multiple AI models into a single product. 
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **AI / ML**
 
@@ -54,7 +50,7 @@
 
 ---
 
-### 📌 Project Highlights
+###  Project Highlights
 
 <table>
 <tr>
@@ -82,5 +78,4 @@ LangGraph pipeline that parses RFPs, scores compliance, and auto-drafts proposal
 </tr>
 </table>
 
----
 
