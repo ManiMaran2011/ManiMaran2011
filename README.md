@@ -1,4 +1,4 @@
-ey, I'm ManiMaran 👋
+Hey, I'm ManiMaran 👋
 
 AI Full Stack Engineer building agentic systems and production RAG pipelines — end to end, from vector retrieval to deployment.
 
