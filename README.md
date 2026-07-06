@@ -84,11 +84,3 @@ LangGraph pipeline that parses RFPs, scores compliance, and auto-drafts proposal
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManiMaran2011&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiMaran2011&layout=compact&theme=radical&hide_border=true" width="48%"/>
-</p>
-
-<p align="center"><i>Open to AI/ML & full-stack engineering roles — let's build something.</i></p>
